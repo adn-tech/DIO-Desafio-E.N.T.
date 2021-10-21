@@ -1,5 +1,5 @@
-# DIO-Desafio-E.N.T.
-Projeto do E.N.T. (.Net)
+# DIO-Desafio-Everis NT
+Projeto do Everis NT (.Net)
 
 Links:
 
